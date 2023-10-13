@@ -1,8 +1,5 @@
-# trading_setups_screens
+# Minervini-setup
 
-Hi There!
+Python script developed to scan Ibovespa (Brazilian Stock Market) stocks, evaluating if they align with Minervini's setup, a renowned stock trading strategy. 📊
 
-I'm currently working on an app which will make alerts for the investers when some setups requirements are fullfilled.
-Currently screening from Ibovespa. Brazilian stock market.
-
-1- Minervini's setup.
+This script helps automate the analysis process, potentially identifying promising stocks that meet the criteria outlined by Minervini. 📚💡
